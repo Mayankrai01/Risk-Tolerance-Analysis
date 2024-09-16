@@ -1,0 +1,166 @@
+{
+  "_id": {
+    "$oid": "669129673e0232c8c635e092"
+  },
+  "userId": {
+    "$oid": "6690a5fead990f01b6c2ad94"
+  },
+  "userDetails": {
+    "demographicInformation": {
+      "infoType": "Demographic Information",
+      "data": {
+        "age": {
+          "$numberInt": "25"
+        },
+        "gender": "Male",
+        "marital": "Un-married",
+        "occupation": "Software Engineer",
+        "industry": "IT"
+      },
+      "_id": {
+        "$oid": "669129673e0232c8c635e094"
+      }
+    },
+    "financialInformation": {
+      "infoType": "Financial information",
+      "data": {
+        "income": {
+          "$numberInt": "1000000"
+        },
+        "investments": [
+          "Real-estate"
+        ],
+        "debt": {
+          "$numberInt": "100000"
+        },
+        "insurance": {
+          "$numberInt": "50000"
+        },
+        "tax_category": "5 - 15 lakhs"
+      },
+      "_id": {
+        "$oid": "669129673e0232c8c635e095"
+      }
+    },
+    "retirementPlans": {
+      "infoType": "Retirement plans",
+      "data": {
+        "retirementAge": {
+          "$numberInt": "35"
+        },
+        "lifeStyle": [
+          "Buy a new house"
+        ]
+      },
+      "_id": {
+        "$oid": "669129673e0232c8c635e096"
+      }
+    },
+    "financialGoals": {
+      "infoType": "Financial goals",
+      "data": {
+        "timeDuration": {
+          "$numberInt": "10"
+        },
+        "investmentGoals": [
+          "Buy a new house"
+        ]
+      },
+      "_id": {
+        "$oid": "669129673e0232c8c635e097"
+      }
+    },
+    "_id": {
+      "$oid": "669129673e0232c8c635e093"
+    }
+  },
+  "portfolioType": {
+    "preferences": {
+      "infoType": "Preferences",
+      "data": {
+        "preference": [
+          "Balance long term returns and short term losses"
+        ]
+      },
+      "_id": {
+        "$oid": "669129673e0232c8c635e099"
+      }
+    },
+    "_id": {
+      "$oid": "669129673e0232c8c635e098"
+    }
+  },
+  "riskTolerance": {
+    "parameters": {
+      "infoType": "Parameters",
+      "data": {
+        "initialInvestment": {
+          "$numberInt": "1000000"
+        },
+        "targetValue": {
+          "$numberInt": "2000000"
+        },
+        "time_interval": {
+          "$numberInt": "10"
+        }
+      },
+      "_id": {
+        "$oid": "669129673e0232c8c635e09b"
+      }
+    },
+    "tolerance": {
+      "infoType": "Parameters",
+      "data": {
+        "tolerance": "56",
+        "toleranceCategory": "Moderately High"
+      },
+      "_id": {
+        "$oid": "669129673e0232c8c635e09c"
+      }
+    },
+    "_id": {
+      "$oid": "669129673e0232c8c635e09a"
+    }
+  },
+  "investmentStrategy": {
+    "strategy": {
+      "infoType": "Strategy",
+      "_id": {
+        "$oid": "669129673e0232c8c635e09e"
+      }
+    },
+    "focus": {
+      "infoType": "Focus",
+      "data": {
+        "option": "Target value"
+      },
+      "_id": {
+        "$oid": "669129673e0232c8c635e09f"
+      }
+    },
+    "_id": {
+      "$oid": "669129673e0232c8c635e09d"
+    }
+  },
+  "portfolioStructure": {
+    "mutualFunds": {
+      "infoType": "Mutual Funds",
+      "data": {
+        "debt": [],
+        "equity": [
+          "Diversified Equity Funds (Large Cap, Mid Cap, Small Cap, Flexi Cap, Multi Cap)"
+        ],
+        "hybrid": []
+      },
+      "_id": {
+        "$oid": "669129673e0232c8c635e0a1"
+      }
+    },
+    "_id": {
+      "$oid": "669129673e0232c8c635e0a0"
+    }
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
