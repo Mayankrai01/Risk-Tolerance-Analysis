@@ -1,0 +1,38 @@
+{
+    "RiskToleranceLevel": {
+        "CurrentRiskTolerance": 0.6,
+        "TargetReturnOnInvestment": 8,
+        "TargetVolatility": 10,
+        "RiskToleranceDescription": "Conservative-Moderate"
+    },
+    "InvestmentStrategy": {
+        "AssetAllocation": {
+            "Stocks": 40,
+            "Bonds": 30,
+            "RealEstate": 30
+        },
+        "InvestmentProducts": {
+            "Stocks": "Index funds or ETFs in technology and healthcare sectors",
+            "Bonds": "Government bonds or high-grade corporate bonds",
+            "RealEstate": "Direct property investment or real-estate investment trusts (REITs)"
+        },
+        "PortfolioRebalancing": "Quarterly review and rebalancing to maintain the target asset allocation"
+    },
+    "CurrentFinancialSituation": {
+        "Income": 1000000,
+        "Investments": "Real-estate (moderate risk)",
+        "Debt": 100000,
+        "Insurance": 50000,
+        "TaxCategory": "5 - 15 lakhs (moderate tax bracket)"
+    },
+    "FinancialGoals": {
+        "ShortTermGoals": "Building an emergency fund and saving for a down payment",
+        "LongTermGoals": "Retirement"
+    },
+    "InvestmentPreferences": {
+        "InvestmentPreferences": "Moderate risk tolerance",
+        "PreferredSectors": "Technology and healthcare"
+    },
+    "QualityScore": 0.9,
+    "TaskCompletionEvaluation": "The task was completed successfully, and the output is accurate and comprehensive."
+}

@@ -1,0 +1,10 @@
+crewai
+crewai_tools
+load_dotenv
+langchain-huggingface
+langchain-groq
+streamlit
+python-dotenv
+gpt4all
+google-generativeai
+ipykernel
